@@ -34,8 +34,6 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "store-api": "git+https://github.com/EvgenyiFedotov/store-api.git",
-    "store-api-react": "git+https://github.com/EvgenyiFedotov/store-api-react.git",
     "styled-components": "^5.2.1",
     "uuid": "^8.3.2"
   }
